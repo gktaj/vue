@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App on Now 2.0"/>
+    <h1>Gopal</h1>
   </div>
 </template>
 
